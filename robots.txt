@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chuanyunjianclash.com/sitemap.xml

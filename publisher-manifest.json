@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "75aedf19140c7eb920302934",
+  "owner": "qpykbskbt",
+  "repo": "page-eb990d5e5ae5c29c7d9e1494",
+  "title": "直通云(ZTCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb990d5e5ae5c29c7d9e1494",
+      "a": "直通云(ZTCloud)",
+      "b": "2027最新官网",
+      "entity": "直通云(ZTCloud)",
+      "brand": "直通云(ZTCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "60bc9ca4d8d66c04ae1eb9e52cfe403126c4239278d2a8f3d732c5de777754a9",
+      "content": {
+        "primary_entity": "直通云(ZTCloud)",
+        "keyword1": "直通云(ZTCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选合适的客户端，再导入订阅信息即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "在套餐对比中选定适合的版本，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，直通云(ZTCloud)提供基础版、旗舰版和团队版三档套餐，按月或按年计费，覆盖不同流量与设备数量需求。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备并加入IPLC专线；团队版每月1000GB流量、支持20台设备。可在Windows、macOS、Android、iOS等设备上按客户端文档配置订阅，按年付更省费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度快速判断适合的版本。",
+          "AI_FEATURES_TITLE": "套餐怎么挑",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合单人或双人；旗舰版300GB适合多设备家庭；团队版1000GB支持20台设备。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，按日常同时在线的手机、电脑和路由器数量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付折算下来基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用的过程。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_HERO_INTRO": "直通云(ZTCloud)提供多档海外加速套餐，月付与年付可选，按流量、设备数量与线路类型区分版本。基础版适合轻量使用，旗舰版加入IPLC专线优化，团队版面向多设备场景。选择版本后，按设备类型配置订阅即可。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队场景",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "按设备类型配置订阅",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，按年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "结合日常流量和同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选版本支持的设备数量和流量上限是否符合使用习惯，按年付可省下部分费用。",
+          "AI_STEP_TEXT_3": "根据手机、电脑或路由器型号，按客户端文档导入订阅信息并连接。",
+          "AI_STEP_TITLE_1": "选择套餐版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "直通云套餐多选",
+          "AI_FAQ_ANSWER_1": "在套餐对比区域查看三档方案的流量、设备数与价格差异，再按日常设备数量选择。个人使用建议基础版，多设备或需要专线可选旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。设备数量按同时连接计算，超出可升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_3": "选定套餐后，将订阅信息导入所使用平台的客户端，按该客户端文档完成配置并连接节点即可。不同平台客户端导入方式略有差异。",
+          "AI_FAQ_ANSWER_4": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，分别对应月付 ¥15、¥35、¥85 的方案。",
+          "AI_FAQ_ANSWER_5": "可以，旗舰版提供 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用场景，普通线路节点池也能满足日常浏览。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_QUESTION_3": "订阅导入后如何配置使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合游戏加速吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chuanyunjianclash.com",
+    "host": "chuanyunjianclash.com"
+  },
+  "file_hashes": {
+    "index.html": "4a2e2ec9e3fbdf628ff2321bbacd277ba0b41cf76128a3d783877c7ad3ea20bb",
+    "sitemap.xml": "f6c0d7ea84fbb9c5553c3ae8f130f8e42c72f44e352cda74a24c92c8b715299f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f3f0ec4ee01d99ecb2ca66e5101a783e64e3ffac95ac0c3045e4fc0c67785ad",
+    "robots.txt": "5efadeab73835d33e8c591a79f1a974c118aba1a38af8a716289bd1defa23289",
+    "57fcc4dcdfec8d1a8ab467d9be3ea360.txt": "740125521de5467beb18d62518727751b6e61986cb59d60dad69f71de88f0212"
+  },
+  "revision": "161ca5440d5375b001533c8e5bad847af86592b157cc991e593880353c32f3c2"
+}
